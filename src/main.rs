@@ -54,7 +54,7 @@ fn number_game() {
         return;
     }
 
-    // compare user input to random word
+    // compare user input to random number
     if input == number {
         print!("You win!")
     } else {
